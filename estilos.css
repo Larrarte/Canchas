@@ -1,0 +1,73 @@
+body 
+{
+	color:#FFFFFF;
+	font:"Comic Sans MS";
+	font-size: 16px;
+	
+}
+
+header
+{
+	background:url(imagenes/cesped1.jpg);
+	border-radius: 10px;
+	box-shadow: 1px 5px 8px rgba(0,102,0,0.5);
+	color: #FFF;
+	font-family: "Comic Sans MS", Arial;
+	font-size: 1em;
+	margin: 0 6em 0 6em;
+	padding: 0.3em 0.5em;
+	
+}
+
+header h1
+{
+	font-size: 2em;
+	margin: 0 2em 0 0.5em;
+	text-align: left;
+	text-shadow: 6px 5px 8px #000;		
+}
+
+header h2
+{
+	font-size: 1em;
+	margin: 0 2em 0 3em;
+	text-align: left;
+	text-shadow: 6px 5px 8px #000;
+}
+
+#descripcion
+{
+	font-size: 1.5em;
+	margin: 1em 0 0 0;
+	color:black;
+	text-align:center;
+			
+}
+#cancha, #cancha1, #cancha2, #cancha3
+{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+#cancha4, #cancha5, #cancha6, #cancha7
+{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+footer
+{
+	background:#CCCCCC;
+	font-size:0.5em;
+	font-family:"Comic Sans MS", cursive;
+}
+#canchas
+{
+	text-align: center;
+	margin: 1em 5em;
+}
+
+{
+	display: inline-block;
+	vertical-align:top;
+}
